@@ -1,4 +1,4 @@
 # ML4
 Machine Learning with python
 ----------------------------
-Linear Regression, polynomial regression, 
+Linear Regression, polynomial regression, Multiple regression.
